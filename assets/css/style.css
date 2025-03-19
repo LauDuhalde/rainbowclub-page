@@ -470,6 +470,9 @@ section {
   transition: 0.9s;
   background-color: #b9aabd;
 }
+.skills p{
+  text-align: justify;
+}
 
 /*--------------------------------------------------------------
 # Resume
@@ -576,12 +579,14 @@ section {
   position: relative;
   overflow: hidden;
   z-index: 1;
-}
-
-.portfolio .portfolio-wrap img {
   width: 237px;
   height: 360px;
 }
+
+/* .portfolio .portfolio-wrap img {
+  width: 237px;
+  height: 360px;
+} */
 
 .portfolio .portfolio-wrap::before {
   content: "";
@@ -605,7 +610,7 @@ section {
   position: absolute;
   transition: all ease-in-out 0.3s;
   display: flex;
-  justify-content: center;
+  justify-content: right;
 }
 
 .portfolio .portfolio-wrap .portfolio-links a {
@@ -679,6 +684,10 @@ section {
   border-bottom: 1px solid #eee;
 }
 
+.portfolio-details .portfolio-info p {
+  text-align: justify;
+}
+
 .portfolio-details .portfolio-info ul {
   list-style: none;
   padding: 0;
@@ -701,6 +710,7 @@ section {
 
 .portfolio-details .portfolio-description p {
   padding: 0;
+  text-align: justify;
 }
 
 /*--------------------------------------------------------------
