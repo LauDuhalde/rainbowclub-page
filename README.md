@@ -32,3 +32,12 @@ Practicar fundamentos de desarrollo web y diseño de interfaces enfocadas en la 
 
 **Laura Duhalde**  
 GitHub: https://github.com/LauDuhalde
+
+---
+
+## 🎨 Template utilizado
+
+- **Nombre:** iPortfolio  
+- **Autor:** BootstrapMade.com  
+- **Template URL:** https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/  
+- **Licencia:** https://bootstrapmade.com/license/  
